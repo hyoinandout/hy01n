@@ -1,6 +1,6 @@
 ### Hi there 👋
-- 🔭 I’m currently working on net-challenge-camp-season-8, and startup-club.
-- 🌱 I’m currently learning javascript, reactjs, and threejs.
+- 🔭 I’m currently working on net-challenge-camp-season-8, gist-petition-site-project and startup-club.
+- 🌱 I’m currently learning javascript, reactjs, unity and ruby on rails.
 <!--
 **hy01n/hy01n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
