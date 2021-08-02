@@ -20,7 +20,7 @@
 **And I use <img src="https://img.shields.io/badge/Linux Mint-87CF3E?style=flat-square&logo=Linux-Mint&logoColor=white"/>**
 
 [Portfolio](https://hy01n.github.io/portfolio/)
-
+There is an error in my github blog now. So If you want to visit and read my posts/portfolio, please go to pinned repository:hy01n.github.io, then you can find my posts/portfolio there.
 <!--
 **hy01n/hy01n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
